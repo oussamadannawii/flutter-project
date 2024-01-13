@@ -1,0 +1,1 @@
+INSERT INTO user_info (name, location, payment) VALUES ('$username', '$location', '$payment')
